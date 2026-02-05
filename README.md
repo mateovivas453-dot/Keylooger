@@ -13,7 +13,7 @@ Implementar en un entorno controlado un keylogger para comprender su uso en ento
 
 <img width="1183" height="285" alt="image" src="https://github.com/user-attachments/assets/8890842c-bfd6-42fe-8b85-2ef7744b0bdf" />
 
-### Todas las teclas que aplastemos en nuestro teclado seraan enviadas al archivo datos.txt
+### Todas las teclas que aplastemos en nuestro teclado seran enviadas al archivo datos.txt
 
 
 <img width="805" height="306" alt="image" src="https://github.com/user-attachments/assets/2da0b996-6241-476b-bac1-e8ff6dd0655f" />
