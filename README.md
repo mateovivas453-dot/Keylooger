@@ -1,7 +1,7 @@
 # Keylooger
 Implementar en un entorno controlado un keylogger para comprender su uso en entornos inseguros, la práctica es educacional y  no debe ser usada con intenciones no éticas e ilegales. El log de las letras presionadas en un archivo .txt.
 
-### Al ejecutar el Keylogger va a generaron un archivo datos.txt
+### Al ejecutar el Keylogger va a generar un archivo datos.txt
 
 <img width="385" height="82" alt="image" src="https://github.com/user-attachments/assets/fbadd716-6682-4121-be51-09cb3ff6d9e2" />
 
