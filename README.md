@@ -5,7 +5,7 @@ Implementar en un entorno controlado un keylogger para comprender su uso en ento
 
 <img width="385" height="82" alt="image" src="https://github.com/user-attachments/assets/fbadd716-6682-4121-be51-09cb3ff6d9e2" />
 
-### Asi se mostrara en la Terminal:
+### Asi se mostrara en la Terminal es script iniciado para fenializar la ejecucion del codigo es necesario en la terminal poner la convinacion de teclas CTRL + c:
 
 <img width="992" height="73" alt="image" src="https://github.com/user-attachments/assets/fb211d10-48dd-4fbd-95ed-13990b088ed8" />
 
